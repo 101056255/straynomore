@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="stray_no_mo">
+
+        <item name="android:textSize">
+            41sp
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+        <item name="android:shadowColor">
+            #40000000
+        </item>
+
+        <item name="android:shadowDx">
+            1
+        </item>
+
+        <item name="android:shadowDy">
+            11
+        </item>
+
+        <item name="android:shadowRadius">
+            4
+        </item>
+
+    </style>
+
+</resources>
